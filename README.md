@@ -1,5 +1,5 @@
 # Pre-Processamento
-Programa feito em Java para simular a fase de pré-processamento na compilação de um código em C. O projeto foi feito com diogozaror para a disciplina de Linguagens de Programação do curso de Ciências da Computação da UFF.
+Programa feito em Java para simular a fase de pré-processamento na compilação de um código em C. O projeto foi feito com Diogo Zaror para a disciplina de Linguagens de Programação do curso de Ciências da Computação da UFF.
 O programa deve remover todos os espaços em branco (espaços, tabulações e quebras de linha) desnessários, remover os comentários, expandir os includes e substituir os macros criados por comandos #define.
 
 # Tutorial
